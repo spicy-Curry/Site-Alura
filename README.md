@@ -1,3 +1,3 @@
 # Site-Alura
 - site (AULA 5): https://vercel.com/spicy-currys-projects/site-alura
-- site (AULA 10): 
+- site (AULA 10): https://vercel.com/spicy-currys-projects/site-alura-10
